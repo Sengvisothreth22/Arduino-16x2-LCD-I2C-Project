@@ -14,5 +14,7 @@ Components Required
 
 -Circuit Diagram
 
+#Contact
 
+For any inquiries or suggestions, please contact me: Sengvisoth Reth (Mike) : Visothtech@gmail.com
 
