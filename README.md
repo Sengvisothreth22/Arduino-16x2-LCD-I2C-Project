@@ -14,5 +14,5 @@ Components Required
 
 -Circuit Diagram
 
--Connect the components as shown below:
+
 
